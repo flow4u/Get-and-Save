@@ -21,7 +21,7 @@ time
 glob
 zipfile
 
-Instructions for myDRE:
+## Instructions for myDRE:
 - deploy VM with OSDS template
 - in the windows VM
 - open cmd miniconda
